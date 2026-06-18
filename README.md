@@ -1,8 +1,13 @@
 # postmark-send
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/btafoya/postmark-send)](go.mod)
+[![Postmark](https://img.shields.io/badge/Postmark-API-blue)](https://postmarkapp.com)
+[![Built with Go](https://img.shields.io/badge/Built%20with-Go-00ADD8.svg)](https://go.dev)
+
 CLI tool for sending email via [Postmark](https://postmarkapp.com). Built to be called by AI agents — all output is newline-delimited JSON, errors included, exit codes are reliable.
 
-MIT License — https://github.com/btafoya/postmark-send
+---
 
 ## Requirements
 
