@@ -19,10 +19,16 @@ CLI tool for sending email via [Postmark](https://postmarkapp.com). Built to be 
 The fastest way is with `go install`:
 
 ```bash
-go install github.com/btafoya/postmark-send@latest
+go install github.com/btafoya/postmark-send@v0.1.0
 ```
 
 The binary is installed to `$GOPATH/bin` or `~/go/bin` by default. Make sure that directory is on your `PATH`.
+
+Or install the latest untagged commit:
+
+```bash
+GOPROXY=direct go install github.com/btafoya/postmark-send@latest
+```
 
 Or clone and build from source:
 
