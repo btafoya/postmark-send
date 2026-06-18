@@ -1,4 +1,4 @@
-module postmarkapp-cli
+module github.com/btafoya/postmark-send
 
 go 1.25.0
 
