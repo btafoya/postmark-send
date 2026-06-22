@@ -5,7 +5,7 @@
 [![Postmark](https://img.shields.io/badge/Postmark-API-blue)](https://postmarkapp.com)
 [![Built with Go](https://img.shields.io/badge/Built%20with-Go-00ADD8.svg)](https://go.dev)
 
-CLI tool for sending email via [Postmark](https://postmarkapp.com). Built to be called by AI agents — all output is newline-delimited JSON, errors included, exit codes are reliable.
+CLI tool for sending email via [Postmark](https://www.postmarkapp.com/?via=tafoya). Built to be called by AI agents — all output is newline-delimited JSON, errors included, exit codes are reliable.
 
 ---
 
