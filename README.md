@@ -189,6 +189,16 @@ Exit code `0` = sent. Exit code `1` = not sent.
 
 ---
 
+## About the Author
+
+**Brian Tafoya** — Senior Software Engineer | Systems Architect | Project Manager
+
+Results-driven Senior Software Engineer with over 30 years of experience architecting, developing, and maintaining robust, scalable systems. Proven expertise across full-stack web development, multiple programming languages, and both Linux and Microsoft ecosystems, including development with .NET and administration of Windows Server environments. Extensive background in systems and network administration, with a strong focus on security, performance, and operational reliability. A veteran of the Internet industry since 1993, delivering end-to-end solutions to complex technical challenges with precision and efficiency.
+
+[github.com/btafoya](https://github.com/btafoya/) · [briantafoya.com](https://briantafoya.com/) - [tafoyaventures.com](https://tafoyaventures.com/)
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
